@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-## 👨🏻‍💻 🇮🇳 Who am I 
+## 👨🏻‍💻 Who am I ?
 
-- I'm a Software Engineer with a strong passion for Test and Automation engineering and am a **polyglot programmer** who loves to code in **Kotlin, Python, and Java**
+- I'm a Software Engineer with a strong passion for Test and Automation engineering and am a **polyglot programmer** who loves to code in **Java, C++, and Dart**
 - I like to build scalable test automation frameworks and utilities to solve testing and automation problems.
-- I believe in understanding and testing all the layers of the stack and have worked with Web, Mobile, and Backend systems throughout my career across different domains.  
+- I believe in understanding and testing all the layers of the stack and have worked with Web, Mobile, and Backend systems.
+
 
 
 
